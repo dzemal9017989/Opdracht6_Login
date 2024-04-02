@@ -1,0 +1,17 @@
+{
+    "name": "dzema/test",
+    "autoload": {
+        "psr-4": {
+            "Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dzemal9017989",
+            "email": "dzemal.nikocevic@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
